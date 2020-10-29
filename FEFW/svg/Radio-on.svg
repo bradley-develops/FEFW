@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24">
+  <g id="Radio-on" transform="translate(-1457 -995)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1457 995)" fill="#fff" stroke="#707070" stroke-width="3">
+      <ellipse cx="12.5" cy="12" rx="12.5" ry="12" stroke="none"/>
+      <ellipse cx="12.5" cy="12" rx="11" ry="10.5" fill="none"/>
+    </g>
+    <g id="Group_94" data-name="Group 94" transform="translate(1457 995)">
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="8.5" cy="8" rx="8.5" ry="8" transform="translate(4 4)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+section.content {
+  width: 75%;
+  margin: 0 auto;
+  margin-bottom: 40pt;
+}
+section.content>div#user-guide>h1 {
+  font-family: helvetica;
+  color: #707070;
+  font-size: 8vw;
+  margin-bottom: 2rem;
+}
+div#user-guide>h3 {
+  font-family: helvetica;
+  padding-top: 3rem;
+  font-size: 30pt;
+}
+div#user-guide>p {
+  color: #707070;
+  font-size: 18pt;
+  font-family: helvetica;
+}
+div#brand-guide-btn {
+  display: flex;
+  justify-content: space-between;
+}
+div.imagebutton {
+  border: 1pt solid;
+  border-radius: 10pt;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 48vw;
+  height: 36.75vw;
+  background-color: #dadada;
+  margin-bottom: 4rem 0;
+}
+div.imagebutton>h3 {
+  padding-left: 4.5rem;
+  color: #fff;
+  font-weight: 300;
+  font-size: 5vw;
+  width: 80%;
+  margin: 0 auto;
+  line-height: 4.75vw;
+}
+div.imagebutton:hover {
+  background-color: #add8e6;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: #fff;
+}
